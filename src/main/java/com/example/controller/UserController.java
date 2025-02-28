@@ -1,6 +1,6 @@
 package com.example.controller;
 
-import com.example.UserService;
+import com.example.service.UserService;
 import com.example.model.User;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
